@@ -2,6 +2,7 @@
 *, body {
 	font-family: Helvetica; 
 	text-align: center;
+	color: #FFFFFF
 }
 
 section {
@@ -17,8 +18,13 @@ section {
 	align-items: center;
 }
 
+.hero{
+	background-image: url(./images/background1.jpg);
+	background-size: cover;
+}
+
 .title {
-	border: 2px solid #000; 
+	border: 2px solid #FFFFFF; 
 	padding: 20px; 
 	margin: 20px; 
 	font-size: 50px;
